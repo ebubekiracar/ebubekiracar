@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github](https://img.shields.io/github/followers/ebubekiracar?style=social)
-![Twitter](https://img.shields.io/twitter/follow/0x364?style=social)
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UC5xBgm9eHaH1NLMF0Cy1puA?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/0x364?style=social)](http://www.twitter.com/0x364)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC5xBgm9eHaH1NLMF0Cy1puA?style=social)](https://www.youtube.com/channel/UC5xBgm9eHaH1NLMF0Cy1puA)
