@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github](https://img.shields.io/github/followers/ebubekiracar?style=social)
+![Twitter](https://img.shields.io/twitter/follow/0x364?style=social)
