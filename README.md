@@ -29,3 +29,5 @@ Hello 👋 , I am a Cyber ​​Security Analyst. I am Arch Linux User ❤️. T
 
 ![ebubekiracar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebubekiracar&show_icons=true&cache_seconds=86400&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekiracar&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ebubekiracar.ebubekiracar)
